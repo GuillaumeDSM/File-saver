@@ -1,5 +1,5 @@
 from os import remove
-from os.path import join, isdir, sep, splitext, exists
+from os.path import join, isdir, exists
 from pathlib import Path
 from shutil import copytree, copy, rmtree, move, make_archive
 from time import time
