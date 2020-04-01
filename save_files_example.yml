@@ -1,0 +1,21 @@
+save_destination: C:\disc_save\save.zip
+save:
+  - E:\Documents:
+    - Important
+    - Other_important
+    - Images
+  - C:\Users\John\TradingBots
+  - C:\Users\John\OctoBot
+  - C:\Users\John\OctoBot-custom-verions:
+    - v1
+    - v2
+ignore:
+  - .git
+  - vendor
+  - log
+  - .idea
+  - __pycache__
+  - venv
+  - bin
+  - build
+  - dist
